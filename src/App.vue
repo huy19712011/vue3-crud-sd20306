@@ -16,6 +16,9 @@ import HelloWorld from "./components/HelloWorld.vue";
             <li class="nav-item">
               <RouterLink class="nav-link" to="/about">About</RouterLink>
             </li>
+            <li class="nav-item">
+              <RouterLink class="nav-link" to="/book">Book</RouterLink>
+            </li>
           </ul>
         </div>
       </div>
